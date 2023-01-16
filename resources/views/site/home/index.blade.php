@@ -98,7 +98,7 @@
                     <div>
                     <h4>Redução de custos</h4>
                     <p>
-                        A otimização de sites pode ajudar a reduzir os custos de aquisição de tráfego, pois ela pode aumentar o tráfego orgânico do site, o que pode reduzir a necessidade de gastar dinheiro em publicidade.  
+                        A otimização de sites pode ajudar a reduzir os custos de aquisição de tráfego, pois ela pode aumentar o tráfego orgânico do site, o que pode reduzir a necessidade de gastar dinheiro em publicidade.
                     </p>
                     </div>
                 </div>
@@ -153,8 +153,8 @@
                 <p>
                     Nós criamos layouts, funcionalidades e integrações de software para atender às necessidades específicas do negócio de nossos clientes.
                 </p>
-                <a href="#" class="read-more">
-                    <span>Saiba mais</span> 
+                <a href="{{ route('site.servicos.site') }}" class="read-more">
+                    <span>Saiba mais</span>
                     <i class="bi bi-arrow-right"></i>
                 </a>
                 </div>
@@ -167,8 +167,8 @@
                 <p>
                     Nós oferecemos serviços de design gráfico e de interação, incluindo a criação de logotipos, layouts de sites e aplicativos, ícones, infográficos e outros elementos visuais para ajudar a melhorar a aparência e usabilidade dos projetos de nossos clientes.
                 </p>
-                <a href="#" class="read-more">
-                    <span>Saiba mais</span> 
+                <a href="{{ route('site.servicos.designer') }}" class="read-more">
+                    <span>Saiba mais</span>
                     <i class="bi bi-arrow-right"></i>
                 </a>
                 </div>
@@ -181,8 +181,8 @@
                 <p>
                     Ajudamos nossos clientes a alcançarem uma melhor classificação nos resultados de pesquisa do Google e outros motores de busca através de estratégias de palavras-chave, otimização de conteúdo e análise de dados.
                 </p>
-                <a href="#" class="read-more">
-                    <span>Saiba mais</span> 
+                <a href="{{ route('site.servicos.seo') }}" class="read-more">
+                    <span>Saiba mais</span>
                     <i class="bi bi-arrow-right"></i>
                 </a>
                 </div>
@@ -193,8 +193,8 @@
                 <i class="bi bi-megaphone icon"></i>
                 <h3>Marketing digital</h3>
                 <p>Oferecemos serviços de marketing digital, incluindo anúncios online, gerenciamento de redes sociais, e-mail marketing, e campanhas publicitarias programaticas para ajudar nossos clientes a atingirem seus públicos-alvo e expandir sua presença online.</p>
-                <a href="#" class="read-more">
-                    <span>Saiba mais</span> 
+                <a href="{{ route('site.servicos.marketing') }}" class="read-more">
+                    <span>Saiba mais</span>
                     <i class="bi bi-arrow-right"></i>
                 </a>
                 </div>
@@ -207,8 +207,8 @@
                 <p>
                     Fornecemos serviços de análise de dados e mensuração de desempenho para ajudar nossos clientes a entender como seus sites e aplicativos estão sendo utilizados e como estão performando. Isso inclui a utilização de ferramentas de análise web e estatísticas avançadas para identificar tendências e oportunidades.
                 </p>
-                <a href="#" class="read-more">
-                    <span>Saiba mais</span> 
+                <a href="{{ route('site.servicos.analise') }}" class="read-more">
+                    <span>Saiba mais</span>
                     <i class="bi bi-arrow-right"></i>
                 </a>
                 </div>
@@ -221,8 +221,8 @@
                 <p>
                     Nós oferecemos serviços de gerenciamento de conteúdo e produção de mídia digital, incluindo a criação e gerenciamento de conteúdo para sites e redes sociais, produção de vídeos e fotografia e criação de campanhas publicitarias para ajudar nossos clientes a criar conteúdo atraente e eficaz.
                 </p>
-                <a href="#" class="read-more">
-                    <span>Saiba mais</span> 
+                <a href="{{ route('site.servicos.midia') }}" class="read-more">
+                    <span>Saiba mais</span>
                     <i class="bi bi-arrow-right"></i>
                 </a>
                 </div>
